@@ -119,7 +119,7 @@ This add-on follows a **Three-Tier Licensing Model**:
 ## 🌐 Distribution Platforms
 
 - [Blender Market (Coming Soon)](https://blendermarket.com/)
-- [ArtStation Store (Coming Soon)](https://artstation.com/)
+- [ArtStation Store ]((https://artstn.co/m/X6Y71))
 - [Official Website (Coming Soon)](https://your-site.com/)
 
 ---
